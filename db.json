@@ -1,26 +1,29 @@
-[
-  {
-    name: "Halo TMCC",
-    platform: "xbox/pc",
-    year: 2015,
-    img: "https://compass-ssl.xbox.com/assets/92/5d/925d1321-89fe-4537-9303-a64adaf27c07.jpg?n=Halo-MCC_GLP-Page-Hero-1084_1920x1040.jpg"
-  },
-  {
-    name: "Gears 5",
-    platform: "xbox",
-    year: 2019,
-    img: "https://compass-ssl.xbox.com/assets/4d/d4/4dd4dc7e-964c-43cf-aac4-f7d03fc40172.jpg?n=1616161616_GLP-Page-Hero-1084_1920x1080.jpg"
-  },
-  {
-    name: "Destiny 2",
-    platform: "xbox/pc/PS",
-    year: 2015,
-    img: "https://store-images.s-microsoft.com/image/apps.1502.68655995542193491.c7491554-2aa5-4e01-bc47-d6002bd8755a.c2e99bb8-69a2-418c-973b-006f22f0ab91?mode=scale&q=90&h=720&w=1280"
-  },
-  {
-    name: "TLOU2",
-    platform: "pc/PS",
-    year: 2020,
-    img: "https://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/2020/06/94497141101633940378952461435730704318070784o-2.jpg"
-  }
-]
+{
+  "Games":
+  [
+    {
+      "name": "Halo TMCC",
+      "platform": "xbox/pc",
+      "year": 2015,
+      "img": "https://compass-ssl.xbox.com/assets/92/5d/925d1321-89fe-4537-9303-a64adaf27c07.jpg?n=Halo-MCC_GLP-Page-Hero-1084_1920x1040.jpg"
+    },
+    {
+      "name": "Gears 5",
+      "platform": "xbox",
+      "year": 2019,
+      "img": "https://compass-ssl.xbox.com/assets/4d/d4/4dd4dc7e-964c-43cf-aac4-f7d03fc40172.jpg?n=1616161616_GLP-Page-Hero-1084_1920x1080.jpg"
+    },
+    {
+      "name": "Destiny 2",
+      "platform": "xbox/pc/PS",
+      "year": 2015,
+      "img": "https://store-images.s-microsoft.com/image/apps.1502.68655995542193491.c7491554-2aa5-4e01-bc47-d6002bd8755a.c2e99bb8-69a2-418c-973b-006f22f0ab91?mode=scale&q=90&h=720&w=1280"
+    },
+    {
+      "name": "TLOU2",
+      "platform": "pc/PS",
+      "year": 2020,
+      "img": "https://cdn2.dineroenimagen.com/media/dinero/styles/xlarge/public/images/2020/06/94497141101633940378952461435730704318070784o-2.jpg"
+    }
+  ]
+}
