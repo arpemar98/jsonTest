@@ -1,4 +1,25 @@
 {
+  "Users":
+  [
+    {
+      "username": "Aristeo1",
+      "name": "Aristeo",
+      "lastname": "Perez",
+      "password": "A1234"
+    },
+    {
+      "username": "Nora1",
+      "name": "Nora",
+      "lastname": "Aguirre",
+      "password": "N1234"
+    },
+    {
+      "username": "Christian1",
+      "name": "Christian",
+      "lastname": "Ramos",
+      "password": "C1234"
+    }
+  ],
   "Games":
   [
     {
@@ -27,6 +48,6 @@
     }
   ],
   "profile": {
-    "name": "arpemar"
+    "name": "Aristeo",
   }
 }
